@@ -41,7 +41,7 @@ Requirements
 
 [Heroku]: https://www.heroku.com/
 [Amazon AWS]: http://aws.amazon.com/
-[Amazon S3]: http://aws.amazon.com/s3/)
+[Amazon S3]: http://aws.amazon.com/s3/
 
 Configuring Apache and PHP
 ==========================
